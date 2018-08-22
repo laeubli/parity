@@ -2,17 +2,17 @@
 
 This repository contains the data we collected to assess the impact of document-level context on human perception of machine translation quality.
 
-We briefly outline the contents of each file below. Please see our [paper](https://openreview.net/forum?id=Hygfmc5U-7) for more detailed information:
+We briefly outline the contents of each file below. Please see our [paper](https://arxiv.org/abs/1808.07048) for more detailed information:
 
 ```
 @inproceedings{laeubli2018parity,
   author = "L{\"a}ubli, Samuel and Sennrich, Rico and Volk, Martin",
-  title = "Has Neural Machine Translation Achieved Human Parity? A Case for Document-level Evaluation",
+  title = "Has Machine Translation Achieved Human Parity? A Case for Document-level Evaluation",
   booktitle = "Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
   year = "2018",
   address = "Brussels, Belgium",
   publisher = "Association for Computational Linguistics",
-  url = "https://openreview.net/pdf?id=Hygfmc5U-7"
+  url = "https://arxiv.org/abs/1808.07048"
 }
 ```
 
